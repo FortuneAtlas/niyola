@@ -25,7 +25,7 @@ body {
 }
 
 .bg1 {
-  background-image: url("../../sikiru - Copy/images/bg.png");
+  background-image: url("https://fortuneatlas.github.io/niyola/images/bg.png");
   color: #ffeaf2;
   background-size: cover;
   background-color: #f8f8fa;
@@ -35,7 +35,7 @@ body {
 
 @media (max-width: 720px) {
   .bg1 {
-    background-image: url("../../sikiru - Copy/images/bg2.png");
+    background-image: url("https://fortuneatlas.github.io/niyola/images/bg2.png");
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 100%;
